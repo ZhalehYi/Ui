@@ -1,0 +1,18 @@
+@import "bodyStyle.css";
+p{
+    display: inline-block;
+    background-color: indigo;!important;
+    padding: 5px;
+    border-radius:7px;
+}
+.p1{
+    color: #e7aeae;
+    font-size: 10px;
+}
+.p2{
+    background-color: #eeeeee;
+}
+.p5{
+    background: bisque;
+    font-family: "Adobe Arabic",serif;
+}

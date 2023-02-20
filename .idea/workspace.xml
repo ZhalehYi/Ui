@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="" />
+    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="Update hello.html">
+      <change afterPath="$PROJECT_DIR$/3/Colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/CssInclude.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/bodyStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/jsInclude.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/scripts/js1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/1/hello.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,29 +28,43 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JaM4pEyejD2dRCtzSpr8nX7SsA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ui\3\scripts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ui/1/hello.html" useBuiltInWebServerPort="true">
@@ -48,6 +77,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ZhalehYarmoradi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="" />
@@ -68,12 +100,31 @@
       <workItem from="1676014526881" duration="1716000" />
       <workItem from="1676017151073" duration="1121000" />
       <workItem from="1676066088604" duration="44000" />
-      <workItem from="1676127030323" duration="1027000" />
+      <workItem from="1676127030323" duration="1780000" />
+      <workItem from="1676149859271" duration="1769000" />
+      <workItem from="1676186039802" duration="412000" />
+      <workItem from="1676188906486" duration="215000" />
+      <workItem from="1676194344109" duration="1463000" />
+      <workItem from="1676199892867" duration="707000" />
+      <workItem from="1676213608201" duration="5000" />
+      <workItem from="1676232494478" duration="22000" />
+      <workItem from="1676232556169" duration="23000" />
+      <workItem from="1676232635566" duration="111000" />
+      <workItem from="1676232899005" duration="1726000" />
+      <workItem from="1676364409249" duration="5000" />
+      <workItem from="1676364471491" duration="6625000" />
+      <workItem from="1676447151599" duration="7217000" />
+      <workItem from="1676909861655" duration="5857000" />
+      <workItem from="1676917459238" duration="2091000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update hello.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update hello.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
