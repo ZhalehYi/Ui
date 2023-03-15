@@ -1,0 +1,37 @@
+<html>
+<head>
+    <script type="text/javascript">
+        function fchangeCss(){
+            document.getElementById('test').style.fontSize="40px";
+            document.getElementById('test').style.color=document.getElementById('clor').value;
+            document.getElementById('test').style.backgroundColor=document.getElementById('clor1').value;
+
+        }
+        function fReset(){
+            document.getElementById('test').style.fontSize="12px";
+            document.getElementById('test').style.color="black";
+            document.getElementById('test').style.backgroundColor="white";
+        }
+    </script>
+</head>
+<body dir="rtl">
+<p id="test"> user6</p>
+<br/>
+متن باید چه رنگی شه؟ انتخاب کن:
+<select id="clor"><option value="blue">Blue</option>
+    <option value="red">Red</option>
+    <option value="green">Green</option>
+    <option value="yellow">Yellow</option>
+</select>
+<br/>
+رنگ پشت متن باید چه رنگی شه؟ انتخاب کن:
+<select id="clor1"><option value="blue">Blue</option>
+    <option value="red">Red</option>
+    <option value="green">Green</option>
+    <option value="yellow">Yellow</option>
+</select>
+<br/>
+<button onClick="fchangeCss();">انجامش بده!</button>
+<button onClick="fReset();">برش گردون</button>
+</body>
+</html>
