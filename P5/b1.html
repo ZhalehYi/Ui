@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Untitled Document</title>
+    <script>
+        function add(){var i1=Number(document.form1.i1.value);
+            var i2=Number(document.form1.i2.value);
+            var result=i1+i2;
+            window.status=result;
+        }
+        function minus(){
+            var i1=Number(document.form1.i1.value);
+            var i2=Number(document.form1.i2.value);
+            var result=i1-i2;
+            window.status=result;
+        }
+        function multiply(){
+            var i1=Number(document.form1.i1.value);
+            var i2=Number(document.form1.i2.value);
+            var result=i1*i2;
+            window.status=result;
+        }
+        function devide(){
+            var i1=Number(document.form1.i1.value);
+            var i2=Number(document.form1.i2.value);
+            var result=i1/i2;
+            window.status=result;
+        }
+
+
+    </script>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+
+    </p>
+    <table border="1">
+        <tr>
+            <td><label for="i1">عدد اول</label>
+                <input type="text" name="i1" id="i1" /></td>
+            <td><input type="button" name="button" id="button" value="+" onclick="add();" /></td>
+            <td><input type="button" name="button2" id="button2" value="-" onclick="minus();" /></td>
+        </tr><tr>
+        <td> <label for="i2">عدد دوم</label>
+            <input type="text" name="i2" id="i2" /></td>
+        <td><input type="button" name="button3" id="button3" value="*" onclick="multiply();" /></td>
+        <td><input type="button" name="button4" id="button4" value="/" onclick="devide();" /></td>
+
+    </tr>
+    </table>
+</form>
+</body>
+</html>

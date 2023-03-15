@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Practice4/Formatting Tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice4/Html Core Tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice5/5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice4/Inline vs Block tags.html" afterDir="false" />
+    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/P5/3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +122,7 @@
       <workItem from="1677245361282" duration="1095000" />
       <workItem from="1677505762256" duration="3810000" />
       <workItem from="1677564950618" duration="8078000" />
+      <workItem from="1678903871317" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="Update hello.html">
       <created>1676922133883</created>
@@ -155,7 +152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677506112100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1678903977350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678903977350</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update1">
+      <created>1678904094335</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904094335</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update1">
+      <created>1678904151347</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904151347</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +183,8 @@
     <MESSAGE value="Update hello.html" />
     <MESSAGE value="sys to git" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
