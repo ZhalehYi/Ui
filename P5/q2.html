@@ -1,0 +1,41 @@
+<html>
+<head><script type="text/javascript">
+    function add()
+    {
+        var n1=Number(document.getElementById("txt1").value);
+        var n2=Number(document.getElementById("txt2").value);
+        document.getElementById("txt3").value= n1+n2;
+    }
+    function mad()
+    {
+        var n1=Number(document.getElementById("txt1").value);
+        var n2=Number(document.getElementById("txt2").value);
+        document.getElementById("txt3").value= n1-n2;
+    }
+    function fad()
+    {
+        var n1=Number(document.getElementById("txt1").value);
+        var n2=Number(document.getElementById("txt2").value);
+        document.getElementById("txt3").value= n1*n2;
+    }
+    function jad()
+    {
+        var n1=Number(document.getElementById("txt1").value);
+        var n2=Number(document.getElementById("txt2").value);
+        document.getElementById("txt3").value= n1/n2;
+    }
+</script>
+</head>
+<body>
+<input type="text" name="txt1" id="txt1"/>
+</br></br>
+<input type="text" name="txt2" id="txt2"/>
+</br></br>
+<input type="text" name="txt3" id="txt3"/>
+</br></br>
+<input type="button" value="جمع" onClick="add()"/>
+<input type="button" value="تفریق" onClick="mad()"/>
+<input type="button" value="ضرب" onClick="fad()"/>
+<input type="button" value="تقسیم" onClick="jad()"/>
+</body>
+</html>
