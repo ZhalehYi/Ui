@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Untitled Document</title>
+    <script>
+        function select1(){
+            document.form1.c1.checked=true;
+            document.form1.c2.checked=true;
+            document.form1.c3.checked=true;
+            document.form1.c4.checked=true;
+            document.form1.c5.checked=true;
+            document.form1.c6.checked=true;
+
+        }
+    </script>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+    <table width="100%" border="1">
+        <tr>
+            <td width="15%"><input type="checkbox" name="c1" id="c1" />
+                <label for="c1">c1</label></td>
+            <td width="19%"><input type="checkbox" name="c2" id="c2" />
+                <label for="c2">c2</label></td>
+            <td width="17%"><input type="checkbox" name="c3" id="c3" />
+                <label for="c3">c3</label></td>
+            <td width="17%"><input type="checkbox" name="c4" id="c4" />
+                <label for="c4">c4</label></td>
+            <td width="14%"><input type="checkbox" name="c5" id="c5" />
+                <label for="c5">c5</label></td>
+            <td width="18%"><input type="checkbox" name="c6" id="c6" />
+                <label for="c6">c6</label></td>
+        </tr>
+        <tr>
+            <td colspan="3"><input type="button" name="s" id="s" value="SELECT ALL" onclick="select1();" /></td>
+            <td colspan="3"><input type="reset" name="ds" id="ds" value="DESELECT" /></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
