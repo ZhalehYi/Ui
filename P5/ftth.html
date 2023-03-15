@@ -1,0 +1,38 @@
+<html>
+<head><script type="text/javascript">
+    function test(){
+        var t1=document.frm.t1.value;
+        var t2=document.frm.t2.value;
+        var t3=document.frm.t3.value;
+        if(t1.length<3||t1.length>20)
+        {
+            window.alert("نام رادرست وارد کن");
+            return(false);
+        }
+        else if(t2.length<6)
+        {
+            window.alert("پسورد کمتر از6نویسه است");
+            return(false);
+        }
+        else if(t3!=t2)
+        {
+            window.alert("تایین پسورد برار نیست ");
+            return(false);}
+        return(true);}
+</script>
+</head>
+<body>
+<form action="te.php" method="Post" name="frm" onsubmit="test();">
+    name:<input type="text" name="t1">
+    </br>
+    password:<input type="password" name="t2">
+    </br>
+    rpass:<input type="password" name="t3">
+    </br>
+    <input type="submit">
+    </br>
+    <input type="reset"></form>
+</body>
+</html>
+
+</html>
