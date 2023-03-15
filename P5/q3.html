@@ -1,0 +1,50 @@
+<html>
+<head><script type="text/javascript">
+    function h()
+    {
+        var radioButtons=document.frm1.rdoDegree;
+        var radioChosen=false;
+        for(i=0;i<radioButtons.length;i++)
+        {
+            if(radioButtons[i].checked)
+                radioChosen=true;
+        }
+        if(radioChosen==false)
+        {
+            window.alert("مدرک تحصیلی خود رامشخص کنید");
+            return(false);
+        }
+        return(true);
+    }
+</script></head>
+<body dir="rtl">
+<form name="frm1" onsubmit="h();">
+    <p>
+        <label>
+            <input type="radio" name="rdoDegree" value="1" id="rdoDegree_0" />
+            زیر دیپلم</label>
+        <br />
+        <label>
+            <input type="radio" name="rdoDegree" value="2" id="rdoDegree_1" />
+            دیپلم</label>
+        <br />
+        <label>
+            <input type="radio" name="rdoDegree" value="3" id="rdoDegree_2" />
+            فوق دیپلم و لیسانس</label>
+        <br />
+        <label>
+            <input type="radio" name="rdoDegree" value="4" id="rdoDegree_3" />
+            فوق لیسانس و دکتری</label>
+        <br />
+        <label>
+            <input type="radio" name="rdoDegree" value="5" id="rdoDegree_4" />
+            دکتری تخصصی و بالاتر</label>
+        <br />
+    </p>
+
+    <form id="form2" name="form2" method="post" action="">
+        <input type="submit" name="submit" id="i" value="Submit" />
+    </form>
+</body>
+
+</html>
