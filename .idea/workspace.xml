@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="" />
+    <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tamrin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,21 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ZhalehYarmoradi/PhpstormProjects/H/Ui/Tamrin",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhalehYarmoradi\PhpstormProjects\H\Ui\Tamrin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhalehYarmoradi\PhpstormProjects\H\Ui\Tamrin" />
       <recent name="C:\Users\ZhalehYarmoradi\PhpstormProjects\Ui\Practice5" />
       <recent name="D:\Ui\3\scripts" />
     </key>
@@ -120,7 +129,8 @@
       <workItem from="1677245361282" duration="1095000" />
       <workItem from="1677505762256" duration="3810000" />
       <workItem from="1677564950618" duration="8078000" />
-      <workItem from="1678903871317" duration="642000" />
+      <workItem from="1678903871317" duration="1443000" />
+      <workItem from="1679067007812" duration="3051000" />
     </task>
     <task id="LOCAL-00001" summary="Update hello.html">
       <created>1676922133883</created>
@@ -213,7 +223,35 @@
       <option name="project" value="LOCAL" />
       <updated>1678904512095</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update1">
+      <created>1678904568543</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904568543</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update1">
+      <created>1678904624998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904624998</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update1">
+      <created>1678904674603</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904674603</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update1">
+      <created>1678904724530</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678904724530</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
