@@ -66,6 +66,31 @@ body{
   .login-form-right form button:hover{
       background-color: rgb(23,81,197);
   }
+  @media  screen and (min-width: 768px) {
+      .login_form {
+          display: flex;
+          flex-direction: row;
+          background-color: #fff;
+          border-radius: 20px;
+          overflow: hidden;
+      }
+      .login-form-right{
+          padding:  5rem;
+          width: 50%;
+          display: flex;
+          flex-direction:column;
+          align-items: center;
+          justify-content: center;
+      }
+  }
+.login-form-img{
+    width: 50%;
+}
+.login-form-img img {
+    height: 90vh;
+    width:  100%;
+    display: block;
+}
 
 
 
