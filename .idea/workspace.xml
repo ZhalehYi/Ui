@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b295f79e-fa6c-4f61-bb9f-d051e1e1eece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tamrin/T7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tamrin/T8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +135,7 @@
       <workItem from="1679067007812" duration="6415000" />
       <workItem from="1679167905924" duration="3316000" />
       <workItem from="1679240800076" duration="4776000" />
-      <workItem from="1679289272848" duration="2907000" />
+      <workItem from="1679289272848" duration="3910000" />
     </task>
     <task id="LOCAL-00001" summary="Update hello.html">
       <created>1676922133883</created>
@@ -403,7 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679292525701</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Update1">
+      <created>1679295557161</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1679295557161</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update1">
+      <created>1679295778456</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679295778456</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
